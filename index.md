@@ -20,3 +20,5 @@ intro:
 Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
+"Seobin Lee" 
+"Department : AI" 
